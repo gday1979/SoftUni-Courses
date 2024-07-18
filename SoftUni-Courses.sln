@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SoftUni-Curses", "SoftUni-Curses", "{000A8F48-631F-4E7D-BB2C-E1CD9428DE84}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Programing Basics", "01.Programing Basics", "{3F93C8E0-69B0-42BF-94D2-522F91BDAE81}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.First Coding", "01.First Coding", "{F9CB47DD-74F3-4A9A-9A31-661F3FCD7467}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab", "Lab", "{0AF4DCE2-1FFB-4331-BA3E-283DD7182187}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exe", "Exe", "{5D238B94-DF7A-435E-9D8A-0946186C5B42}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Hello SoftUni", "01.Hello SoftUni", "{3A67A2A9-9CDF-4F53-BB0B-65D5538A5ACF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Hello SoftUni", "..\01.Hello SoftUni\01.Hello SoftUni.csproj", "{74EA8F97-7670-462E-992F-5007634DE0E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74EA8F97-7670-462E-992F-5007634DE0E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74EA8F97-7670-462E-992F-5007634DE0E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74EA8F97-7670-462E-992F-5007634DE0E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74EA8F97-7670-462E-992F-5007634DE0E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3F93C8E0-69B0-42BF-94D2-522F91BDAE81} = {000A8F48-631F-4E7D-BB2C-E1CD9428DE84}
+		{F9CB47DD-74F3-4A9A-9A31-661F3FCD7467} = {3F93C8E0-69B0-42BF-94D2-522F91BDAE81}
+		{0AF4DCE2-1FFB-4331-BA3E-283DD7182187} = {F9CB47DD-74F3-4A9A-9A31-661F3FCD7467}
+		{5D238B94-DF7A-435E-9D8A-0946186C5B42} = {F9CB47DD-74F3-4A9A-9A31-661F3FCD7467}
+		{3A67A2A9-9CDF-4F53-BB0B-65D5538A5ACF} = {0AF4DCE2-1FFB-4331-BA3E-283DD7182187}
+		{74EA8F97-7670-462E-992F-5007634DE0E3} = {3A67A2A9-9CDF-4F53-BB0B-65D5538A5ACF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2101A5C0-4A9A-43B3-9B2B-A5E8CD7D1059}
+	EndGlobalSection
+EndGlobal
